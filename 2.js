@@ -5,7 +5,6 @@ let pow = () => {
 
     n = Number(n)
     a = Number(a)
-    console.log(n,a);
     
     for(i=0;i<n;i++) {
         result = result*a
